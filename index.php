@@ -3,7 +3,7 @@
 <html>
 <head>
 	<meta http-equiv="refresh" content="0;<?php echo BASE_URL; ?>new/">
-	<title> Heool </title>
+	<title></title>
 </head>
 <body>
 </body>
